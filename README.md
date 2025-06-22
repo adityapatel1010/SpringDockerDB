@@ -87,8 +87,3 @@ mvn spring-boot:run
 * Database integration with **MySQL**
 * Docker-based service orchestration
 * Introduction to **gRPC** for inter-service communication
-
----
-
-Let me know if you'd like to expand the gRPC section with actual `.proto` file samples or integrate Swagger for API documentation!
-```
